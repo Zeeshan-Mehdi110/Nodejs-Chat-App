@@ -1,7 +1,5 @@
-Sure! Here's an example of a `README.md` file for your Chat App:
-
 ```markdown
-# Chat App
+# Chat App In Nodejs
 
 This is a Chat App built using the MERN stack (MongoDB, Express.js, React, and Node.js). It utilizes socket.io for real-time communication and implements a RESTful API for server-client interactions.
 
@@ -32,7 +30,7 @@ Make sure to update the `.env` file located in the server directory. Set the val
 To start the server, run the following command in the server directory:
 
 ```bash
-yarn start
+yarn server
 ```
 
 To start the React client, run the following command in the root directory:
@@ -57,7 +55,7 @@ Please ensure that your code follows the existing coding style and includes appr
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [ISC License](LICENSE).
 ```
 
 Feel free to modify the content as per your requirements.
