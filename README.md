@@ -1,4 +1,4 @@
-```markdown
+
 # Chat App In Nodejs
 
 This is a Chat App built using the MERN stack (MongoDB, Express.js, React, and Node.js). It utilizes socket.io for real-time communication and implements a RESTful API for server-client interactions.
